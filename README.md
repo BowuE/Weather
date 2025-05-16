@@ -6,12 +6,6 @@ Built with Python, CustomTkinter, and tkvideo.
 
 ---
 
-## 📸 Preview
-
-*(Insert screenshot or gif preview here)*
-
----
-
 ## ✨ Features
 
 - 🔍 Real-time weather fetching by city name
